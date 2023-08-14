@@ -12,19 +12,19 @@ https://t.me/SariiRooti
 
 # Info
 <p align="center">
-  <a href="https://github.com/AmmarrBN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Sewaktu+waktu+tools+ini+akan" alt="UwU">
+  <a href="https://github.com/Crex707"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Sewaktu+waktu+tools+ini+akan" alt="UwU">
   <a href="https://github.com/AmmarrBN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=expired+jadi+gunakan+dengan+bijak+!" alt="UwU">
 </p>
 
 <details open>
-  <summary><strong> Install Package + Run Script (AmmarrBN)</strong></summary>
+  <summary><strong> Install Package + Run Script (Crex707)</strong></summary>
 
   ```bash
   pkg update && pkg upgrade
   pkg install python
   pkg install git
   pkg install python2
-  git clone https://github.com/AmmarrBN/Index-SpamV2
+  git clone https://github.com/Crex707/Index-SpamV2
   cd Index-SpamV2
   pip install -r requirements.txt
   python main.py
